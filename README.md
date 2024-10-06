@@ -1,1 +1,1 @@
-# ai-for-software-development-workshop
+# Introduction to Github Copilot
