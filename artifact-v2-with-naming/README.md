@@ -14,7 +14,7 @@ In this case the artifact is a VowelExtractor class that extracts the vowels fro
 
 >Note: DONT OPEN THE TEST FILE. JUST RUN THE TESTS.
 
-3. ¿Does the test pass?
+3. Does the test pass?
     - Yes: Nice!
     - No: Upss! Something is weird.
 
