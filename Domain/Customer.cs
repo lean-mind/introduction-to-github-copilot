@@ -6,3 +6,4 @@ public class Customer(string name, string email)
 
     public string Name { get; } = name;
 }
+
