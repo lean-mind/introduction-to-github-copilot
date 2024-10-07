@@ -1,6 +1,8 @@
-﻿public class Artifact
+﻿namespace artifactWithoutNaming;
+
+public class Artifact
 {
-    public string[] extractFrom(string input)
+    public string[] process(string input)
     {
         return null;
     }

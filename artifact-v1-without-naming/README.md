@@ -1,8 +1,6 @@
-# Artifact With Naming
+﻿# Artifact Without Naming
 
-This is an artifact has been named. So it is straightforward to understand what it is about.
-
-In this case the artifact is a VowelExtractor class that extracts the vowels from a string.
+This is an artifact has not been named. So it is not straightforward to understand what it is about.
 
 ## What to do?
 
@@ -15,6 +13,6 @@ In this case the artifact is a VowelExtractor class that extracts the vowels fro
 >Note: DONT OPEN THE TEST FILE. JUST RUN THE TESTS.
 
 3. ¿Does the test pass?
-    - Yes: Nice!
-    - No: Upss! Something is weird.
+   - Yes: Unbelievable! 
+   - No: Take another suggestion from Github Copilot and implement it. Go to step 2.
 

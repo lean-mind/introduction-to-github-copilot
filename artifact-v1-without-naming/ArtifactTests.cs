@@ -1,22 +1,20 @@
-﻿namespace ArtifactV1;
+﻿namespace artifactWithoutNaming;
 
 public class ArtifactTests
 {
     [Fact]
     public void happy_path()
     {
-        var vowelExtractor = new Artifact();
-        //var vowelExtractor = new VowelExtractor();
+        var artifact = new Artifact();
         
-        Assert.Equal(new List<string>() {"e,o,o"}, vowelExtractor.extractFrom("hello world"));
+        Assert.Equal(new List<string>() {"e,o,o"}, artifact.process("hello world"));
     }
     
     [Fact]
     public void edge_case()
     {
-        var vowelExtractor = new Artifact();
-        // var vowelExtractor = new VowelExtractor();
+        var artifact = new Artifact();
 
-        Assert.Equal(new List<string>() {}, vowelExtractor.extractFrom("thnks!"));
+        Assert.Equal(new List<string>() {}, artifact.process("thnks!"));
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace ArtifactV2;
+﻿namespace ArtifactWithNaming;
 
 public class VowelExtractor
 {
