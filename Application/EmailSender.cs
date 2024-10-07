@@ -1,4 +1,4 @@
-﻿
+﻿namespace Application;
 using Domain;
 
 public interface EmailSender
