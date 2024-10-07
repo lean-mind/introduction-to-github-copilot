@@ -1,6 +1,4 @@
-﻿
-
-using BallV2Enriched;
+﻿namespace BallEnriched;
 
 public class BallTests
 {

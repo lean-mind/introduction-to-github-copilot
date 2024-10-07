@@ -1,4 +1,4 @@
-﻿using BallV1Simple;
+﻿namespace BallSimple;
 
 public class BallTests
 {

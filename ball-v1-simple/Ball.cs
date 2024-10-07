@@ -1,4 +1,4 @@
-﻿namespace BallV1Simple;
+﻿namespace BallSimple;
 
 public class Ball
 {

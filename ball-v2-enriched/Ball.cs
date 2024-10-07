@@ -1,4 +1,4 @@
-﻿namespace BallV2Enriched;
+﻿namespace BallEnriched;
 
 public class Direction
 {
