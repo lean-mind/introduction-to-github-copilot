@@ -13,6 +13,6 @@ This is an artifact has not been named. So it is not straightforward to understa
 >Note: DONT OPEN THE TEST FILE. JUST RUN THE TESTS.
 
 3. Does the test pass?
-   - Yes: Nice!
-   - No: Upss! Something is weird.
+   - Yes: Unbelievable!
+   - No: Take another suggestion from Github Copilot and implement it. Go to step 2.
 
