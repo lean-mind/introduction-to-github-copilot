@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refactoring-chest", "refact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "missing-edge-cases", "missing-edge-cases\missing-edge-cases.csproj", "{91394F39-DD45-41AA-9F00-0525B9402093}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fix-bugs-2-string-calculator", "fix-bugs-2-string-calculator\fix-bugs-2-string-calculator.csproj", "{B2445F32-324D-4F23-9E8B-5D19BE8CB2AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{91394F39-DD45-41AA-9F00-0525B9402093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91394F39-DD45-41AA-9F00-0525B9402093}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91394F39-DD45-41AA-9F00-0525B9402093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2445F32-324D-4F23-9E8B-5D19BE8CB2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2445F32-324D-4F23-9E8B-5D19BE8CB2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2445F32-324D-4F23-9E8B-5D19BE8CB2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2445F32-324D-4F23-9E8B-5D19BE8CB2AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{01CFD1BF-3208-499D-8CC4-E097A7E74A94} = {DB591719-9B68-4661-8F48-93D762A742E0}
@@ -120,5 +126,6 @@ Global
 		{A69131DA-FF9D-4718-ADC5-FCBF24E40477} = {3EECD12E-EAFD-4F2C-A779-25C2BB201635}
 		{6FE45E11-DCA2-4C49-B232-FD4AA60D9616} = {3EECD12E-EAFD-4F2C-A779-25C2BB201635}
 		{91394F39-DD45-41AA-9F00-0525B9402093} = {A7DDCB2C-EE1A-47BF-97E9-1DCB3D9E6936}
+		{B2445F32-324D-4F23-9E8B-5D19BE8CB2AA} = {A7DDCB2C-EE1A-47BF-97E9-1DCB3D9E6936}
 	EndGlobalSection
 EndGlobal
