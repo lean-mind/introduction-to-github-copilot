@@ -1,0 +1,35 @@
+﻿Realiza una revisión de todo el código se hace referencia.
+Para ello, debes hacerlo en base al documento de
+acuerdo de equipo que tienes de referencia.
+
+Para la revisión debes seguir el siguiente formato :
+
+"""
+- ✅ Revisión de archivo `nombre_archivo` completada.
+     ❌ Código que no cumple con el acuerdo de equipo:
+     ```csharp
+        [Fragmento de Código que no cumple con el acuerdo de equipo + explicación y acuerdo de equipo que no cumple]
+     ```
+
+- ✅ Revisión de archivo `nombre_archivo` completada.
+    ✅ No se ha encontrado código que no cumpla con el acuerdo de equipo.
+
+- ✅ Revisión de archivo `nombre_archivo` completada.
+
+    ❌ Código que no cumple con el acuerdo de equipo:
+    ```csharp
+     [Fragmento de Código que no cumple con el acuerdo de equipo + explicación y acuerdo de equipo que no cumple]
+    ```
+    
+    ```csharp
+      [Fragmento de Código que no cumple con el acuerdo de equipo + explicación y acuerdo de equipo que no cumple]
+    ```
+  
+  PROPUESTA DE MEJORA:
+  - [correción del código]
+"""
+
+IMPORTANTE: solo muestra el fragmento de código que no cumple no todo el archivo o clase
+IMPORTANTE: Al lado o encima del fragmento añade un comentario con el acuerdo de equipo que no cumple para verlo de manera más clara.
+IMPORTANTE: En la propueta de mejora, solo muestra la corrección sobre el fragmento de código que no cumple con el acuerdo de equipo. No es necesario mostrar toda la clase o método corregido.
+
