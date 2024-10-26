@@ -22,7 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\simplificatation-and-transformation-of-code\simplificatation-and-transformation-of-code.csproj" />
+      <ProjectReference Include="..\SimplificationAndTransformation\SimplificationAndTransformation.csproj" />
     </ItemGroup>
 
 </Project>

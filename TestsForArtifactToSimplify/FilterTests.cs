@@ -12,7 +12,7 @@ public class FilterToSimplifyTests
         var lista = new List<int>();
 
         // Act
-        var resultado = artifact.FiltrarListaCompleja(lista);
+        var resultado = artifact.FilterComplexList(lista);
 
         // Assert
         Assert.Empty(resultado);
@@ -26,7 +26,7 @@ public class FilterToSimplifyTests
         var lista = new List<int> { 1, 3, 5, 7, 9 };
 
         // Act
-        var resultado = artifact.FiltrarListaCompleja(lista);
+        var resultado = artifact.FilterComplexList(lista);
 
         // Assert
         Assert.Empty(resultado);
@@ -40,7 +40,7 @@ public class FilterToSimplifyTests
         var lista = new List<int> { 12, 15, 30, 45, 60 };
 
         // Act
-        var resultado = artifact.FiltrarListaCompleja(lista);
+        var resultado = artifact.FilterComplexList(lista);
 
         // Assert
         var esperado = new List<int> { 30 };
@@ -55,7 +55,7 @@ public class FilterToSimplifyTests
         var lista = new List<int> { 5, 12, 18, 25, 30, 50, 55 };
 
         // Act
-        var resultado = artifact.FiltrarListaCompleja(lista);
+        var resultado = artifact.FilterComplexList(lista);
 
         // Assert
         var esperado = new List<int> { 30 };

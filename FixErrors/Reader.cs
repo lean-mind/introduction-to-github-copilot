@@ -11,14 +11,3 @@ public class Reader
         return content;
     }
 }
-
-/*
- *     public string ReadContentOf(string filePath)
-    {
-        var file = new File(filePath);
-        
-        var content  = file.readLines();
-        
-        return content;
-    }
-*/

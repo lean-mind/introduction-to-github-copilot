@@ -22,7 +22,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6-inline-chat-fix-bugs-and-errors", "6-inline-chat-fix-bugs-and-errors", "{A7DDCB2C-EE1A-47BF-97E9-1DCB3D9E6936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simple-division", "simple-division\simple-division.csproj", "{5D7108CE-DD7E-44E5-8287-6ACD9B3B6AD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixBugs", "FixBugs\FixBugs.csproj", "{5D7108CE-DD7E-44E5-8287-6ACD9B3B6AD0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7-inline-chat-understanding-code", "7-inline-chat-understanding-code", "{3EECD12E-EAFD-4F2C-A779-25C2BB201635}"
 EndProject
@@ -40,9 +40,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSortTool", "TestSortToo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortTool", "SortTool\SortTool.csproj", "{73B51120-6A51-40E0-8830-63932E815915}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fix-errors", "fix-errors\fix-errors.csproj", "{9A81B58D-3659-43A1-AE61-2CD88B5B50DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixErrors", "FixErrors\FixErrors.csproj", "{9A81B58D-3659-43A1-AE61-2CD88B5B50DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplificatation-and-transformation-of-code", "simplificatation-and-transformation-of-code\simplificatation-and-transformation-of-code.csproj", "{E0D586CF-AF30-4F83-A3EF-B2F371A4530A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplificationAndTransformation", "SimplificationAndTransformation\SimplificationAndTransformation.csproj", "{E0D586CF-AF30-4F83-A3EF-B2F371A4530A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtifactToDocument", "ArtifactToDocument\ArtifactToDocument.csproj", "{7E77F531-B299-4D39-9B42-076232B70DCD}"
 EndProject
