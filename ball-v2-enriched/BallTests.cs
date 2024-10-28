@@ -10,7 +10,6 @@ public class BallTests
     public void ball_when_bounces_with_some_wall_goes_to_opposite_direction(string directionBeforeBounce, string directionAfterBounce)
     {
         var ball = Ball.throwBallTo(directionBeforeBounce);
-        // var ball = EnrichedBall.throwBallTo(directionBeforeBounce);
         
         ball.bounce();
         
