@@ -7,7 +7,7 @@ public class BusinessTests
     {
         var business = new Business(100, 200, 300);
         
-        var valuation = business.valuationAtMarketState(MarketState.Crisis);
+        var valuation = business.ValuationAtMarketState(MarketState.Crisis);
          
         Assert.Equal(100, valuation);
     }

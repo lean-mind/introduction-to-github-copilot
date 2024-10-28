@@ -7,9 +7,9 @@ public enum MarketState
     Euphoria
 }
 
-public class Business(int valuationAtMarketInCrisis, int ValuationAtMarketNormal, int valuationAtMarketInEuphoria)
+public class Business(int valuationAtMarketInCrisis, int valuationAtMarketNormal, int valuationAtMarketInEuphoria)
 {
-    public int valuationAtMarketState(MarketState marketState)
+    public int ValuationAtMarketState(MarketState marketState)
     {
         return valuationAtMarketInCrisis;
     }
