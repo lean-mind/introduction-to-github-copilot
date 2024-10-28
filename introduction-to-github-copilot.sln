@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamAgreementLinter", "Team
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimplifcationAndTransformationTests", "SimplifcationAndTransformationTests\SimplifcationAndTransformationTests.csproj", "{46DAA3B2-3E36-4EB9-B1C6-2BF1D1302520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyLogiticsSystemTests", "LegacyLogiticsSystemTests\LegacyLogiticsSystemTests.csproj", "{ACF2240E-DDBD-4951-9DD3-B53570008148}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,10 @@ Global
 		{46DAA3B2-3E36-4EB9-B1C6-2BF1D1302520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46DAA3B2-3E36-4EB9-B1C6-2BF1D1302520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46DAA3B2-3E36-4EB9-B1C6-2BF1D1302520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF2240E-DDBD-4951-9DD3-B53570008148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF2240E-DDBD-4951-9DD3-B53570008148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF2240E-DDBD-4951-9DD3-B53570008148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF2240E-DDBD-4951-9DD3-B53570008148}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,5 +176,6 @@ Global
 		{03F6723A-77EE-484E-80EE-C0D26FE9614D} = {252F4FD3-877E-4BB6-8505-E5846301B7EC}
 		{19B56C6D-5E95-4CF9-A1C8-DA7A87960967} = {642A2FC8-F3C4-4629-8D8F-D501CD4A5830}
 		{46DAA3B2-3E36-4EB9-B1C6-2BF1D1302520} = {646DA090-8CE1-4304-9DB1-0094A3EAB537}
+		{ACF2240E-DDBD-4951-9DD3-B53570008148} = {252F4FD3-877E-4BB6-8505-E5846301B7EC}
 	EndGlobalSection
 EndGlobal
