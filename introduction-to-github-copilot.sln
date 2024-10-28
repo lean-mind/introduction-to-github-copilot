@@ -61,7 +61,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegacylogisticsSystem", "Le
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamAgreementLinter", "TeamAgreementLinter\TeamAgreementLinter.csproj", "{19B56C6D-5E95-4CF9-A1C8-DA7A87960967}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestsForArtifactToSimplify", "TestsForArtifactToSimplify\TestsForArtifactToSimplify.csproj", "{46DAA3B2-3E36-4EB9-B1C6-2BF1D1302520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimplifcationAndTransformationTests", "SimplifcationAndTransformationTests\SimplifcationAndTransformationTests.csproj", "{46DAA3B2-3E36-4EB9-B1C6-2BF1D1302520}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
