@@ -1,6 +1,5 @@
-﻿namespace LegacylogisticsSystem;
-
-public class Order
+﻿
+public class Order_
 {
     private string _shippingType; // Can be "Economical", "Regular" or "Express"
     
