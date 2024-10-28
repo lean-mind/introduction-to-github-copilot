@@ -12,6 +12,6 @@ public class EdgeCaseTest
         
         Assert.Throws<DivideByZeroException>(
             () => Math.Divide(dividend, divisor)
-        ).Message.Should().Be("Divisor cannot be zero");
+        ).Message.Should().Be("Divisor cannot be zero. Please try again");
     }
 }
