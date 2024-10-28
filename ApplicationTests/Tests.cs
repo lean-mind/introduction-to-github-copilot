@@ -28,7 +28,7 @@ public class Tests
         
         registerCustomer.register(nameCustomer, emailCustomer);
         
-        customerRepository.Received().save(new Customer(nameCustomer, emailCustomer));
-        emailSender.Received().sendConfirmationEmailTo(new Customer(nameCustomer, emailCustomer));
+        customerRepository.Received().save(Arg.Is<Customer>(c => c.Name == nameCustomer && c.Email == emailCustomer));
+        emailSender.Received().sendConfirmationEmailTo(Arg.Is<Customer>(c => c.Name == nameCustomer && c.Email == emailCustomer));
     }
 }
