@@ -7,7 +7,7 @@ public class VowelExtractorTests
     {
         var vowelExtractor = new VowelExtractor();
         
-        Assert.Equal(new List<string>() {"e,o,o"}, vowelExtractor.extractFrom("hello world"));
+        Assert.Equal(new List<string>() {"e","o","o"}, vowelExtractor.extractFrom("hello world"));
     }
     
     [Fact]
